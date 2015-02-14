@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="NewsCrawler"
+  id="myeclipse.1404971597531"
+  context-root="/NewsCrawler"
+  j2ee-spec="6.0"
+  archive="NewsCrawler.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
